@@ -1,0 +1,81 @@
+body{
+    background-color: darkgrey;
+}
+
+a:link{
+    color: darkgoldenrod;
+}
+
+a:visited{
+    color: darkgoldenrod;
+}
+
+#banner{
+    height: 40px;
+    font-size: 40px;
+    background-color: aliceblue;
+    text-align: left;
+    color: darkgoldenrod;
+}
+
+#menu{
+    float: right;
+}
+
+#menu.menuButton{
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+#formSpace.form{
+
+}
+
+#indexMessage{
+    background-color: floralwhite;
+    text-align: center;
+    align-self: center;
+    color: crimson;
+    font-size: 25px;
+}
+
+button{
+    color: darkgoldenrod;
+    background-color: floralwhite;
+    align-content: center;
+    border-color: black;
+    border-style: dot-dot-dash;
+}
+
+#menu button{
+    font-size: 40px;
+}
+
+#dataTable button{
+    font-size: 10px;
+}
+
+#formSpace button{
+    font-size: 30px;
+}
+
+#databaseTable{
+    align-self: center;
+}
+
+.dataTable{
+    align-content: center;
+    text-align: center;
+    align-self: center;
+    font-size: 25px;
+    width: 100%;
+    border-style: dotted;
+    border-color: darkgoldenrod;
+    background-color: floralwhite;
+}
+
+#formSpace{
+    background-color: floralwhite;
+    width: fit-content;
+    font-size: 25px;
+}
